@@ -1,12 +1,12 @@
-# Power - Planning of Workplace Equitable Recharge
+# POWER - Planning Of Workplace Equitable Recharge
 
 ## What's this?
 
-This repository contains the code and data for the paper titled 
+This repository contains the code and data for the paper  
 
-## Leveraging Commuting Patterns and Workplace Charging to Advance Equitable EV Charger Access
+**Title: Leveraging Commuting Patterns and Workplace Charging to Advance Equitable EV Charger Access**
 
-#### Ruiting Wang, Ha-Kyung Kwon, Katherine H. Jordan, Scott J. Moura, Madhur Boloor, Michael L. Machala
+***Authors: Ruiting Wang, Ha-Kyung Kwon, Katherine H. Jordan, Scott J. Moura, Madhur Boloor, Michael L. Machala***
 
 The study introduces a framework to improve accessibility and quantify social equity priorities in electric vehicle charging infrastructure through strategic workplace charger placement.
 
@@ -17,8 +17,9 @@ This framework equips policymakers with quantifiable metrics to evaluate trade-o
 ## Contents
 
 1. [Highlights](#highlights)
-2. [Dataset](#Dataset)
+2. [Datasets](#datasets)
 3. [Setup](#setup)
+4. [License](#license)
 
 ## Highlights
 
@@ -27,7 +28,7 @@ This framework equips policymakers with quantifiable metrics to evaluate trade-o
 - Workplace charging can improve infrastructure equity under budget limitations.
 
 
-## Dataset
+## Datasets
 
 This project utilizes various datasets to analyze commuting patterns and workplace charging for equitable EV charger access. Below is an overview of the datasets:
 
