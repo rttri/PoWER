@@ -1,11 +1,14 @@
-
-# Leveraging Commuting Patterns and Workplace Charging to Advance Equitable EV Charger Access
-
-#### Ruiting Wang, Ha-Kyung Kwon, Katherine H. Jordan, Scott J. Moura, Madhur Boloor, Michael L. Machala
+# Power - Planning of Workplace Equitable Recharge
 
 ## What's this?
 
-This repository contains the code and data for the paper titled "Leveraging Commuting Patterns and Workplace Charging to Advance Equitable EV Charger Access." The study introduces a framework to improve accessibility and quantify social equity priorities in electric vehicle charging infrastructure through strategic workplace charger placement.
+This repository contains the code and data for the paper titled 
+
+## Leveraging Commuting Patterns and Workplace Charging to Advance Equitable EV Charger Access
+
+#### Ruiting Wang, Ha-Kyung Kwon, Katherine H. Jordan, Scott J. Moura, Madhur Boloor, Michael L. Machala
+
+The study introduces a framework to improve accessibility and quantify social equity priorities in electric vehicle charging infrastructure through strategic workplace charger placement.
 
 The research develops a customizable equity evaluation model to quantify access disparities across demographic groups. This model is integrated into an optimization framework to guide charging infrastructure deployment decisions. Using commuting patterns, the case study of Oakland, California demonstrates that strategically placing workplace chargers can achieve, on average, a 1.8-fold reduction in relative mean absolute deviation compared to benchmark scenarios. The analysis highlights that targeted workplace charger deployment in high-commuter zones can significantly enhance citywide equity.
 
