@@ -35,7 +35,7 @@ This project utilizes various datasets to analyze commuting patterns and workpla
 | Name                          | Description                                                                 | Coverage       | Resolution          | Source                              |
 |-------------------------------|-----------------------------------------------------------------------------|----------------|---------------------|-------------------------------------|
 | Demographic Data              | Includes income, population, employment rate, multi-unit dwelling rate, ethnicity, vehicle number, etc. | Nationwide     | Census Blocks       | [Census Bureau](https://www.census.gov/) |
-| Residential Charger Data      | Provides data on residential EV charger installations.                     | California      | By demographics      | [Home Charging Access in California (Local Surveys)](https://www.energy.ca.gov/publications/2022/home-charging-access-california) |
+| Residential Charger Data      | Provides data on residential EV charger installations.                     | Statewide (CA)      | By demographics (See Appendix C)    | [Home Charging Access in California (Local Surveys)](https://www.energy.ca.gov/publications/2022/home-charging-access-california) |
 | Commuting Patterns            | Tracks daily travel behavior and workplace locations.                      | Nationwide     | Census tract         | [LEHD Origin-Destination Employment Statistics](https://lehd.ces.census.gov/data/) |
 | EV Charger Locations          | Provides existing EV charger locations and capacities.                     | Nationwide     | Latitude/Longitude   | [Alternative Fuels Data Center](https://afdc.energy.gov/stations/) |
 
