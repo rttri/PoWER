@@ -1,0 +1,1 @@
+{"equity_indicator_list": ["char_capacity_per_capita", "char_capacity_per_car", "char_capacity_per_VKT_out"], "demographic_group_list": ["income_level"], "disparity_index_list": ["relative_mean_abs_dev"], "max_add_capacity_list": [0, 10000, 20000, 30000, 40000, 50000, 60000, 70000], "multi_obj_setting": [0.5], "exclusivity_factor_list": [0.7, 0.9]}
